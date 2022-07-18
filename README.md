@@ -1,4 +1,4 @@
 # SVD-decomposition
 - Pseudo-Inversa
-- Posto k
+- Posto de matriz
 - U*V
